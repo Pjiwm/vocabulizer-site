@@ -12,8 +12,11 @@
 		<p class="text-xl font-light tracking-wider">Smart tool for unlocking language mastery</p>
 	</header>
 
-	<!-- Supported Languages Section -->
+	<!-- Logo and Supported Languages Section -->
 	<section class="w-full px-6 py-12 max-w-4xl text-center">
+		<!-- Logo -->
+		<img src="/512x512.png" alt="Vocabulizer Logo" class="w-32 h-32 mx-auto mb-6 shadow-lg" />
+
 		<h2 class="text-3xl font-semibold mb-6">Supported Languages</h2>
 		<div class="flex flex-wrap justify-center gap-2">
 			<!-- Language Bubbles -->
@@ -61,10 +64,7 @@
 				></div>
 				<div class="relative z-10">
 					<h3 class="text-2xl font-semibold mb-4">Download Now</h3>
-					<p class="text-lg mb-6">
-						Download the program and get the lite version for free. Experience how Vocabulizer can
-						revolutionize language learning.
-					</p>
+					<p class="text-lg mb-6">Download the program and get the lite version for free.</p>
 					<a
 						href="/download"
 						class="bg-red-500 text-white py-3 px-8 rounded-full text-lg font-semibold inline-flex items-center space-x-3 hover:bg-red-600 transition-all duration-300 shadow-lg transform hover:scale-105 active:scale-95"
